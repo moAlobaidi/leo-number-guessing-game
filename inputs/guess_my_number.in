@@ -1,0 +1,13 @@
+// The program input for guess_my_number/src/main.leo
+[create_secret_number]
+number: u32 = 7u32;
+
+[check_winner]
+secret: SecretNumber = SecretNumber {
+    owner: aleo1zv5rpcgxywhkuu8h92xcxz3wd5nrhle9386x5rjsagt59v208y9sthafcc,
+    number: 7u32
+};
+guess: 7u32;
+guesser: aleo170hvh2y7g3m2d0urvgd0vla4p2rw080rqew6p32f94j736pktcqsyjnh0n;
+
+
