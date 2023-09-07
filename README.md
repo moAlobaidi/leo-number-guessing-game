@@ -12,4 +12,4 @@ To execute this Aleo program, run:
 snarkvm run hello
 ```
 # leo-number-guessing-game
-`./run.sh` to run example
+```./run.sh``` to run example
